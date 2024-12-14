@@ -4,7 +4,7 @@
 
 This was a group project completed by Christopher Elchik, Nathan Lorenc, Brandon Troy, and Rishi Jeswani for a graduate data mining course at North Carolina State University.
 
-This project is a data science project that uses the [RateMyProfessors](https://www.ratemyprofessors.com/) website to scrape data on professors and their ratings, and [Gradient] to scrape data on grade distributions for each professor. The data is then used to cluster the professors based on their quality, difficulty, and average GPA, and identify similarities and differences of the rating distributions across colleges.
+This was a data science project that uses the [RateMyProfessors](https://www.ratemyprofessors.com/) website to scrape data on professors and their ratings, and [Gradient] to scrape data on grade distributions for each professor. The data was then used to cluster the professors based on their quality, difficulty, and average GPA, and identify similarities and differences of the rating distributions across colleges.
 
 ### Usage
 
