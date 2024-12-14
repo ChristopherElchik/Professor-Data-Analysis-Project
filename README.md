@@ -1,6 +1,8 @@
-# CSC 522 Group 8 Project
+# Professor Insights: Clustering Quality and Difficulty Across NCSU Colleges
 
-## Professor Insights: Clustering Quality and Difficulty Across NCSU Colleges
+## Project for CSC522: Automated Learning and Data Analysis
+
+This was a group project completed with Brandon Troy, Nathan Lorenc, and Rishi Jeswani for a graduate data mining course at North Carolina State University.
 
 This project is a data science project that uses the [RateMyProfessors](https://www.ratemyprofessors.com/) website to scrape data on professors and their ratings, and [Gradient] to scrape data on grade distributions for each professor. The data is then used to cluster the professors based on their quality, difficulty, and average GPA, and identify similarities and differences of the rating distributions across colleges.
 
