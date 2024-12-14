@@ -1,0 +1,149 @@
+{
+  "College of Agriculture and Life Sciences": {
+    "departments": [
+      "Genetics",
+      "Agriculture",
+      "Soils",
+      "Animal Science",
+      "Biochemistry",
+      "Biosciences",
+      "Microbiology",
+      "Plant Pathology",
+      "Crop Studies",
+      "Poultry Genomics",
+      "Poultry Science",
+      "Horticulture",
+      "Entomology",
+      "Veterinary & Animal Sciences",
+      "Nutrition",
+      "Law"
+    ],
+    "subjects": [
+      "AEE", "AEHS", "AES", "AGI", "ALS", "ANS", "ARE", "BAE", "BAET", "BCH", "BIT", "CBS", "CS", "CSSC", "ENT", "FCS", "FM", "FS", "FSA", "FW", "FYD", "GN", "HS", "MB", "NTR", "PB", "PO", "PP", "SSC", "TOX", "YFCS", "ZO"
+    ]
+  },
+  "College of Design": {
+    "departments": [
+      "Design",
+      "Architecture",
+      "Graphic Arts"
+    ],
+    "subjects": [
+      "ADN", "ARC", "D", "DDN", "DS", "GC", "GD", "ID", "LAR"
+    ]
+  },
+  "College of Education": {
+    "departments": [
+      "Physical Ed",
+      "Physical Education",
+      "Education"
+    ],
+    "subjects": [
+      "EAC", "ECD", "ECI", "ED", "EDP", "EED", "ELM", "ELP", "EMS", "EOE", "TDE", "TED"
+    ]
+  },
+  "College of Engineering": {
+    "departments": [
+      "Industrial Engineering",
+      "Biomedical Engineering",
+      "Nuclear Engineering",
+      "Electrical Engineering",
+      "Environmental Engineering",
+      "Computer Science",
+      "Engineering",
+      "Civil, Construction, & Environmental Engineering",
+      "Chem/Biomolecular Engineering"
+    ],
+    "subjects": [
+      "BAE", "BME", "BMME", "CE", "CHE", "CSC", "E", "ECE", "EGM", "EGR", "EM", "ISE", "JEM", "MAE", "MES", "MSE", "NE", "OR", "PY"
+    ]
+  },
+  "College of Humanities and Social Sciences": {
+    "departments": [
+      "Anthropology & Sociology",
+      "Theater",
+      "English",
+      "Criminal Justice",
+      "Anthropology",
+      "Music",
+      "Writing",
+      "History",
+      "Fine Arts",
+      "Social Science",
+      "Women's Studies",
+      "Sociology",
+      "Political Science",
+      "Philosophy",
+      "Economics",
+      "Religion",
+      "Social Work",
+      "Film",
+      "Psychology",
+      "Humanities",
+      "Ethnic Studies",
+      "Classics",
+      "Art History",
+      "Communication",
+      "Foreign Languages",
+      "Literature",
+      "International Studies",
+      "Languages"
+    ],
+    "subjects": [
+      "AFS", "ANT", "COM", "CRD", "ENG", "FL", "FLA", "FLC", "FLE", "FLF", "FLG", "FLI", "FLJ", "FLN", "FLP", "FLR", "FLS", "GRK", "HI", "HSS", "HUM", "HUMG", "HUMU", "IDS", "IS", "LAT", "LPS", "MIS", "NPS", "PA", "PER", "PHI", "PS", "PSY", "REL", "SOC", "STS", "SW", "USC", "WGS", "WRT"
+    ]
+  },
+  "College of Natural Resources": {
+    "departments": [
+      "Forest Biomaterials",
+      "Wildlife",
+      "Tourism Management",
+      "Forestry",
+      "Park Management",
+      "Recreation, Parks, & Tourism"
+    ],
+    "subjects": [
+      "CNR", "ES", "ET", "FB", "FOR", "NR", "PRT", "SMT", "WPS"
+    ]
+  },
+  "College of Sciences": {
+    "departments": [
+      "Zoology",
+      "Chemistry",
+      "Mathematics",
+      "Biology",
+      "Geology",
+      "Statistics",
+      "Toxicology",
+      "Physics",
+      "Marine Sciences",
+      "Science",
+      "Health Sciences",
+      "Information Science",
+      "Geography"
+    ],
+    "subjects": [
+      "BIO", "BMA", "BSC", "CH", "COS", "DSC", "FDS", "FIM", "GIS", "LOG", "MA", "MAA", "MEA", "PMS", "PY", "ST"
+    ]
+  },
+  "Poole College of Management": {
+    "departments": [
+      "Business",
+      "Management",
+      "Finance",
+      "Marketing",
+      "Accounting"
+    ],
+    "subjects": [
+      "ACC", "BUS", "EC", "ECG", "M", "MBA", "MIE"
+    ]
+  },
+  "Wilson College of Textiles": {
+    "departments": [
+      "Textiles & Clothing"
+    ],
+    "subjects": [
+      "FPS", "FTD", "FTM", "MT", "NW", "PCC", "T", "TAM", "TC", "TE", "TMS", "TT", "TTM"
+    ]
+  }
+}

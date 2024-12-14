@@ -1,0 +1,9 @@
+Name
+College
+Quality Score
+Difficulty Score
+GPA (averaged over total student count)
+Would Take Again
+Number of Ratings
+Number of Sections
+Total Students
