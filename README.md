@@ -6,6 +6,8 @@ This was a group project completed by Christopher Elchik, Nathan Lorenc, Brandon
 
 This was a data science project that uses the [RateMyProfessors](https://www.ratemyprofessors.com/) website to scrape data on professors and their ratings, and [Gradient] to scrape data on grade distributions for each professor. The data was then used to cluster the professors based on their quality, difficulty, and average GPA, and identify similarities and differences of the rating distributions across colleges.
 
+[Link to the research paper where we discuss our findings](https://github.com/ChristopherElchik/Professor-Data-Analysis-Project/blob/db0ab9a398ed5222983c6502594471dca9065b92/paper/P8_Professor_Clustering.pdf)
+
 ### Usage
 
 The pipeline for this project is broken down into the following files:
